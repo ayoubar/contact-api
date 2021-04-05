@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://ayoub:AY@96gdAX@ayoubcluster-olus4.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
